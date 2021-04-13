@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T12:51:50.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="cJme2e5u8QeHvKT8hgpy" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T12:52:00.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="8Jz9TtpjHh3H3eUvMlYb" version="14.5.10" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2297" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,9 +327,6 @@
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-226" value="Lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="462.30999999999995" y="424.5" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WiBNpjLUuEJFoy7rU6HF-231" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="480" width="82.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-232" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-239" y="710.66" width="82.5" height="93" as="geometry" />
