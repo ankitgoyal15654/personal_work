@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T11:32:01.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="gdmnPmqHjlQZ6G6IDhTE" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T11:32:13.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="RLbSuCY63NtWolgTuVpt" version="14.5.10" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2297" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,10 +215,10 @@
           <mxGeometry x="462.30999999999995" y="424.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-232" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="720.9999999999999" width="82.5" height="93" as="geometry" />
+          <mxGeometry x="-80" y="694.1599999999999" width="82.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-233" value="CloudWatch Logs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-190" y="814" width="110" height="20" as="geometry" />
+          <mxGeometry x="-93.75" y="800" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QqN9er6aj0GwTR-qJEJG-17" target="WiBNpjLUuEJFoy7rU6HF-129">
           <mxGeometry relative="1" as="geometry" />
