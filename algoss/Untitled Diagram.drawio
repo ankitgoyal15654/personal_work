@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T11:33:50.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="HbkTAC5Dme422tjaNCMN" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T13:29:45.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="abj1_SOZlyw68DezxrG0" version="14.5.10" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="2297" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3330" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
           <mxGeometry x="310" y="453" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-213" value="NAT Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="351.75" y="585" width="170" height="20" as="geometry" />
+          <mxGeometry x="306.5" y="585" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-214" value="VPC endpoints" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="637" y="590" width="170" height="20" as="geometry" />
@@ -225,9 +225,6 @@
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-17" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=user" vertex="1" parent="1">
           <mxGeometry x="-140" y="308" width="79" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="QqN9er6aj0GwTR-qJEJG-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="550" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-19" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-230" y="323" width="90" height="27" as="geometry" />
