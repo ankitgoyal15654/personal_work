@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T09:49:21.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="iI28BKrqYAkb7DD9LmRf" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T09:50:55.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="OXrBskho9GPR6Iv5fyTF" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="2586" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3490" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,7 +225,7 @@
           <mxGeometry x="-411" y="536" width="79" height="62" as="geometry" />
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-19" value="IBM Data Power Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="292.5" width="90" height="27" as="geometry" />
+          <mxGeometry x="-227.5" y="293" width="90" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yKdZMkxym6lMWIDJn17J-1" target="WiBNpjLUuEJFoy7rU6HF-129">
           <mxGeometry relative="1" as="geometry" />
