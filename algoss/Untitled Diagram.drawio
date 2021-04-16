@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T12:16:08.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="nfhd6fhQXbBxXW7sc-M2" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T12:18:20.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76" etag="WL5dBLHNXl1i95EXwfpZ" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="3490" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2403" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="-137.5" y="565" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-99" value="CMK Encryption&lt;br&gt;(AES 256)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="820" width="72.5" height="20" as="geometry" />
+          <mxGeometry x="60" y="807.16" width="72.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-100" value="AWS Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-93.75" y="424.5" width="50" height="27" as="geometry" />
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/VISTA/mail_icons/png/128/smtp_folder.png" vertex="1" parent="1">
           <mxGeometry x="890" y="246" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="yKdZMkxym6lMWIDJn17J-33" value="ECR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="827.16" width="72.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
