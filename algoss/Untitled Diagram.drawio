@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T14:37:50.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="yRQd8uQoClQ1Ay-hkRrG" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T14:38:15.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="BFh8wN2z2GRuNWBBjAsY" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="2586" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,6 +325,9 @@
             <mxPoint x="50" y="179" as="sourcePoint" />
             <mxPoint y="250" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-45" value="Upload access to AWS amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="600" width="85" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
