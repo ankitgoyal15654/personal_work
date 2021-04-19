@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T08:44:16.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="TUaG-fYDGo5yX35lvs4a" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T08:49:32.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="zmw1OKqSzclIqCzQcNhq" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2697" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yKdZMkxym6lMWIDJn17J-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-395" y="216.5" width="120" height="422.5" as="geometry" />
+          <mxGeometry x="-390" y="216.5" width="115" height="422.5" as="geometry" />
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-13" value="region: US-EAST-1" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="60" width="1010" height="880" as="geometry" />
@@ -201,10 +201,10 @@
           <mxGeometry x="-445" y="252.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-13" value="Development Yeam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-377.75" y="599" width="50" height="30" as="geometry" />
+          <mxGeometry x="-364.88" y="598" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-15" value="Authenticated with Users custom federation Identity pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-502" y="320" width="107" height="64" as="geometry" />
+          <mxGeometry x="-496" y="320" width="107" height="64" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-377.75" y="302" width="75.75" height="89" as="geometry" />
