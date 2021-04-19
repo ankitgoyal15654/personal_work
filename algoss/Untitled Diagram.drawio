@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T13:09:45.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="9abbSSOSiT-xuorOX3ez" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:13:01.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="DgQ9udp7zdt301F8O9Fw" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="2697" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2433" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-99" value="CMK Encryption&lt;br&gt;(AES 256)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="807.16" width="72.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WiBNpjLUuEJFoy7rU6HF-100" value="AWS Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-93.75" y="424.5" width="50" height="35.5" as="geometry" />
+        <mxCell id="WiBNpjLUuEJFoy7rU6HF-100" value="Client App+ AWS Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-146.25" y="436.5" width="116.25" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-103" value="Dynamo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="667" y="771" width="40" height="20" as="geometry" />
@@ -295,6 +295,12 @@
         </mxCell>
         <mxCell id="Ek5bXgJOzsxv5E4-OxUp-25" value="Pointing to lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="150" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-27" value="Using SAML" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="397.5" width="60" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-28" value="JWT Verification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="354" width="60" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
