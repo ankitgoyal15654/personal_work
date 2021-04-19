@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T13:06:37.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="bIbLfD3fSFvXCZWI93i_" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:09:45.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="9abbSSOSiT-xuorOX3ez" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2697" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="110" y="707" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-115" value="10.0.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="210" y="71" width="70" height="20" as="geometry" />
+          <mxGeometry x="220" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-117" value="Private subnet us-east-1-a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="548.25" y="100" width="170" height="20" as="geometry" />
@@ -293,11 +293,8 @@
         <mxCell id="Ek5bXgJOzsxv5E4-OxUp-19" value="Aetna Active directory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-399" y="472" width="107" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-21" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-22" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="40" height="20" as="geometry" />
+        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-25" value="Pointing to lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="150" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
