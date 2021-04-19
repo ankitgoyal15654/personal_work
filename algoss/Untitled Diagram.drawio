@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T13:22:58.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="sfkAp3m6ithEw-AoSKBv" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T13:24:35.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="DsTyLYXr35ENPWDtkq5v" version="14.6.0" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
-    <mxGraphModel dx="2433" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2697" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yKdZMkxym6lMWIDJn17J-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-395" y="199.75" width="115" height="422.5" as="geometry" />
+          <mxGeometry x="-395" y="220" width="115" height="390" as="geometry" />
         </mxCell>
         <mxCell id="QqN9er6aj0GwTR-qJEJG-13" value="region: US-EAST-1" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-140" y="60" width="1010" height="880" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="60" y="807.16" width="72.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-100" value="Client App+ AWS Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="47.5" y="475.5" width="85" height="35.5" as="geometry" />
+          <mxGeometry x="-25" y="488.5" width="85" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-103" value="Dynamo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="667" y="771" width="40" height="20" as="geometry" />
@@ -192,16 +192,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-9" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=user" parent="1" vertex="1">
-          <mxGeometry x="-395" y="227" width="79" height="62" as="geometry" />
+          <mxGeometry x="-382" y="243.3" width="79" height="62" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-10" value="users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-362.5" y="197" width="50" height="30" as="geometry" />
+          <mxGeometry x="-362.5" y="216" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-13" value="Development Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-364.88" y="569" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-15" value="Authenticated with Users custom federation Identity pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-391" y="296" width="107" height="64" as="geometry" />
+          <mxGeometry x="-391" y="314.5" width="107" height="64" as="geometry" />
         </mxCell>
         <mxCell id="yKdZMkxym6lMWIDJn17J-16" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cognito;fillColor=#AD688B;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-115.75" y="483" width="75.75" height="89" as="geometry" />
