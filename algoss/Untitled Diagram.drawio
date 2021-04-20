@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T14:29:49.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="sZYN65I7ciIgMFqOm65N" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-20T14:34:55.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="Nd75gVHr6_3EtQW4N-d4" version="14.6.1" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2736" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-100" value="Client App+ AWS Amplify" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-25" y="488.5" width="85" height="35.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Ek5bXgJOzsxv5E4-OxUp-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#330000;" parent="1" source="WiBNpjLUuEJFoy7rU6HF-103" target="yKdZMkxym6lMWIDJn17J-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WiBNpjLUuEJFoy7rU6HF-103" value="Dynamo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="667" y="771" width="40" height="20" as="geometry" />
