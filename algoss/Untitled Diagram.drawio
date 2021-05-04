@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T13:06:34.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="4EhLOvbade4GLdR4-pUK" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T13:06:53.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="u_uflfsK1RI0USo-YxQR" version="14.6.9" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2433" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
         <mxCell id="W75NskjVm0JpvdnO4GOD-274" value="Lambda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="253.5" width="113.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="W75NskjVm0JpvdnO4GOD-275" value="Short Live Authentication Token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="W75NskjVm0JpvdnO4GOD-275" value="Temporary credentails" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="707.16" width="85" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="W75NskjVm0JpvdnO4GOD-276" value="VPC endpoints" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
