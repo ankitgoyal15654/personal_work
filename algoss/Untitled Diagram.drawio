@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T11:54:01.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="e-wlU1WfBr2MMe-vgm9f" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T11:55:23.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="wyH75x5jMdRqSYGspt3z" version="14.6.9" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="1304" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="aP_DREw8w3PdNv23wdk8-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="735" width="280" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;" edge="1" parent="1" source="aP_DREw8w3PdNv23wdk8-51" target="aP_DREw8w3PdNv23wdk8-44">
+        <mxCell id="aP_DREw8w3PdNv23wdk8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aP_DREw8w3PdNv23wdk8-51" target="aP_DREw8w3PdNv23wdk8-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aP_DREw8w3PdNv23wdk8-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3a78y231asrh2o54ej2jlmx5-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/ibm-datapower.png;" vertex="1" parent="1">
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="aP_DREw8w3PdNv23wdk8-73" value="SSO Authentication&lt;br&gt;(Azure AD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="560" width="110" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-74" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;strokeColor=#330000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="670" width="36.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-75" value="API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="710" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
