@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T11:52:05.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="Sc5TcdtAqJlmVrcsWYVt" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T11:53:25.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="HfOJtlzTNfsE41_xzHvj" version="14.6.9" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="1304" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,11 +61,11 @@
         <mxCell id="aP_DREw8w3PdNv23wdk8-69" value="CVS Data Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="830" width="81" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-71" value="SSO Authentication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="110" height="20" as="geometry" />
+        <mxCell id="aP_DREw8w3PdNv23wdk8-71" value="SSO Authentication&lt;br&gt;(Azure AD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="501" width="110" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-72" value="SSO Authentication" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="510" width="110" height="20" as="geometry" />
+        <mxCell id="aP_DREw8w3PdNv23wdk8-72" value="SSO Authentication&lt;br&gt;(Azure AD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
