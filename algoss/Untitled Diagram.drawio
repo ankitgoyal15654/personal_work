@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T13:37:05.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="iXKMtuHjcTleIzV2Da7m" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T15:14:36.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.51" etag="6i9As8afJdhwXIajeyqU" version="14.6.9" type="github">
   <diagram id="a3R2w4tenQ1a1NCuHC_m" name="Page-1">
     <mxGraphModel dx="2433" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,14 +22,15 @@
         <mxCell id="aP_DREw8w3PdNv23wdk8-49" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#330000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="260" y="735" width="280" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aP_DREw8w3PdNv23wdk8-51" target="aP_DREw8w3PdNv23wdk8-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aP_DREw8w3PdNv23wdk8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="aP_DREw8w3PdNv23wdk8-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508.5" y="763.4285714285716" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://3a78y231asrh2o54ej2jlmx5-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/ibm-datapower.png;" vertex="1" parent="1">
-          <mxGeometry x="449.5" y="746.96" width="59" height="33.04" as="geometry" />
-        </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;" edge="1" parent="1" source="aP_DREw8w3PdNv23wdk8-52" target="aP_DREw8w3PdNv23wdk8-51">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aP_DREw8w3PdNv23wdk8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeColor=#000000;" edge="1" parent="1" source="aP_DREw8w3PdNv23wdk8-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.5" y="763.4285714285716" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aP_DREw8w3PdNv23wdk8-52" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFB366;fillColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="289" y="735" width="43.88" height="50" as="geometry" />
@@ -52,12 +53,6 @@
         <mxCell id="aP_DREw8w3PdNv23wdk8-66" value="NO PHI/PII data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="650" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-67" value="logos/other data information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="785" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aP_DREw8w3PdNv23wdk8-68" value="IBM DPGW" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="429" y="785" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aP_DREw8w3PdNv23wdk8-69" value="CVS PBM Data Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359.5" y="830" width="81" height="20" as="geometry" />
         </mxCell>
@@ -75,6 +70,18 @@
         </mxCell>
         <mxCell id="aP_DREw8w3PdNv23wdk8-77" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;CVS MCO&amp;nbsp;&lt;br&gt;AWS Account Architecture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="290" width="480" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-78" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoint;" vertex="1" parent="1">
+          <mxGeometry x="456.37" y="739.75" width="45.25" height="45.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-79" value="EPOK API gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="428.99000000000007" y="790" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-80" value="Nuxio (Contetnt mangement system)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="790" width="121.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aP_DREw8w3PdNv23wdk8-81" value="Extract logos/images" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332.88" y="735" width="121.06" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
